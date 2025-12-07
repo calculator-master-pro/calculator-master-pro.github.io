@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.calculator_master_pro.twa",
-        "sha256_cert_fingerprints": ["27:87:51:3C:0B:F2:E6:94:F1:B2:DA:96:C8:76:C0:3E:C9:19:79:BF:97:4F:32:6D:4D:FD:31:98:E1:AD:8F:E1"]
+        "sha256_cert_fingerprints": ["A9:9F:06:30:BB:CB:C5:D9:93:BB:5F:9A:A1:71:AB:2E:80:2B:2E:8F:ED:4D:A9:D3:97:33:EF:CB:A1:A2:61:18"]
       }
     }]
